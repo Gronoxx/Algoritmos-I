@@ -1,4 +1,4 @@
-# My main three projects from my Algorithms I Course!
+# My Main Three Projects from my Algorithms I Course!
 
 ## Project 1
 
